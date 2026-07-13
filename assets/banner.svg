@@ -1,4 +1,4 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
@@ -15,34 +15,49 @@
     </linearGradient>
   </defs>
 
-  <rect x="0" y="0" width="1200" height="300" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="340" fill="url(#bg)"/>
 
   <g opacity="0.10">
-    <circle cx="60" cy="40" r="1.4" fill="#58a6ff"/>
-    <circle cx="90" cy="40" r="1.4" fill="#58a6ff"/>
-    <circle cx="120" cy="40" r="1.4" fill="#58a6ff"/>
-    <circle cx="60" cy="70" r="1.4" fill="#58a6ff"/>
-    <circle cx="90" cy="70" r="1.4" fill="#58a6ff"/>
-    <circle cx="120" cy="70" r="1.4" fill="#58a6ff"/>
-    <circle cx="60" cy="100" r="1.4" fill="#58a6ff"/>
-    <circle cx="90" cy="100" r="1.4" fill="#58a6ff"/>
-    <circle cx="120" cy="100" r="1.4" fill="#58a6ff"/>
+    <circle cx="60" cy="36" r="1.4" fill="#58a6ff"/>
+    <circle cx="90" cy="36" r="1.4" fill="#58a6ff"/>
+    <circle cx="120" cy="36" r="1.4" fill="#58a6ff"/>
+    <circle cx="60" cy="60" r="1.4" fill="#58a6ff"/>
+    <circle cx="90" cy="60" r="1.4" fill="#58a6ff"/>
+    <circle cx="120" cy="60" r="1.4" fill="#58a6ff"/>
   </g>
 
   <g>
-    <rect x="860" y="210" width="46" height="55" rx="4" fill="url(#barFade)"/>
-    <rect x="920" y="175" width="46" height="90" rx="4" fill="url(#barFade)"/>
-    <rect x="980" y="140" width="46" height="125" rx="4" fill="url(#barFade)"/>
-    <rect x="1040" y="100" width="46" height="165" rx="4" fill="url(#barFade)"/>
-    <rect x="1100" y="60" width="46" height="205" rx="4" fill="url(#barFade)"/>
+    <rect x="860" y="245" width="46" height="55" rx="4" fill="url(#barFade)"/>
+    <rect x="920" y="210" width="46" height="90" rx="4" fill="url(#barFade)"/>
+    <rect x="980" y="175" width="46" height="125" rx="4" fill="url(#barFade)"/>
+    <rect x="1040" y="135" width="46" height="165" rx="4" fill="url(#barFade)"/>
+    <rect x="1100" y="95" width="46" height="205" rx="4" fill="url(#barFade)"/>
   </g>
 
-  <polyline points="860,205 920,170 980,135 1040,95 1123,55"
+  <polyline points="860,240 920,205 980,170 1040,130 1123,90"
             fill="none" stroke="url(#lineFade)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="1123" cy="55" r="6" fill="#58a6ff"/>
+  <circle cx="1123" cy="90" r="6" fill="#58a6ff"/>
 
-  <text x="70" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f0f6fc">Asghar Hussain</text>
-  <rect x="72" y="148" width="140" height="4" rx="2" fill="#58a6ff"/>
-  <text x="70" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#58a6ff">Data &amp; Business Analyst</text>
-  <text x="70" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#8b949e">Power BI &#183; SQL &#183; DAX &#183; PostgreSQL &#183; Excel</text>
+  <text x="70" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#f0f6fc">Asghar Hussain</text>
+  <rect x="72" y="126" width="140" height="4" rx="2" fill="#58a6ff"/>
+  <text x="70" y="162" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#58a6ff">Data &amp; Business Analyst</text>
+  <text x="70" y="192" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">Power BI &#183; SQL &#183; DAX &#183; PostgreSQL &#183; Excel</text>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="70" y="222" width="170" height="72" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="86" y="254" font-size="24" font-weight="700" fill="#58a6ff">&#163;7.1M</text>
+    <text x="86" y="278" font-size="13" fill="#8b949e">Revenue Analyzed</text>
+
+    <rect x="256" y="222" width="170" height="72" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="272" y="254" font-size="24" font-weight="700" fill="#58a6ff">540K+</text>
+    <text x="272" y="278" font-size="13" fill="#8b949e">Records Processed</text>
+
+    <rect x="442" y="222" width="170" height="72" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="458" y="254" font-size="24" font-weight="700" fill="#58a6ff">$83.54K</text>
+    <text x="458" y="278" font-size="13" fill="#8b949e">Modeled Profit Gain</text>
+
+    <rect x="628" y="222" width="170" height="72" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+    <text x="644" y="254" font-size="24" font-weight="700" fill="#58a6ff">44+</text>
+    <text x="644" y="278" font-size="13" fill="#8b949e">DAX Measures Shipped</text>
+  </g>
 </svg>
