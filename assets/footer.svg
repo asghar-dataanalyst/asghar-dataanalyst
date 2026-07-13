@@ -1,0 +1,34 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#111927"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="150" fill="url(#fbg)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="#58a6ff"/>
+
+  <g opacity="0.10">
+    <circle cx="1140" cy="30" r="1.4" fill="#58a6ff"/>
+    <circle cx="1110" cy="30" r="1.4" fill="#58a6ff"/>
+    <circle cx="1080" cy="30" r="1.4" fill="#58a6ff"/>
+    <circle cx="1140" cy="54" r="1.4" fill="#58a6ff"/>
+    <circle cx="1110" cy="54" r="1.4" fill="#58a6ff"/>
+    <circle cx="1080" cy="54" r="1.4" fill="#58a6ff"/>
+    <circle cx="60" cy="30" r="1.4" fill="#58a6ff"/>
+    <circle cx="90" cy="30" r="1.4" fill="#58a6ff"/>
+    <circle cx="120" cy="30" r="1.4" fill="#58a6ff"/>
+    <circle cx="60" cy="54" r="1.4" fill="#58a6ff"/>
+    <circle cx="90" cy="54" r="1.4" fill="#58a6ff"/>
+    <circle cx="120" cy="54" r="1.4" fill="#58a6ff"/>
+  </g>
+
+  <text x="600" y="66" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#f0f6fc">Let&#8217;s turn your data into decisions</text>
+  <text x="600" y="94" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Open to Data Analyst &amp; Business Analyst roles &#183; Freelance BI projects &#183; Collaborations</text>
+
+  <line x1="470" y1="112" x2="730" y2="112" stroke="#30363d" stroke-width="1"/>
+
+  <text x="600" y="134" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#58a6ff">linkedin.com/in/asghar-hussain-dataanalyst &#183; github.com/asghar-dataanalyst</text>
+</svg>
